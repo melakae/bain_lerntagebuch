@@ -2,10 +2,9 @@ title: Blog Bibliotheks- und Archivinformatik
 author: Melanie
 email: melanie.kaeser@stud.fhgr.ch
 description: > # this means to ignore newlines
-  Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
+  Persönliches Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
 
 # social links
-twitter_username: melakae # DO NOT include the @ character, or else the build will fail!
 github_username:  melakae # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
