@@ -5,7 +5,7 @@ date: 2021-09-15
 
 <h1>Bestehende Wissenslücken schliessen</h1>
 
-<p>Gespannt habe ich den ersten Unterrichtsblock von BAIN erwartet. Meine Vorstellungen vom Modulinhalt waren nicht sehr konkret, wie der Einführungsartikel zeigt. <br> </p>
+<p>Gespannt habe ich den ersten Unterrichtsblock von BAIN erwartet. Meine Vorstellungen vom Modulinhalt waren nicht sehr konkret, wie der [Einführungsartikel]( https://github.com/melakae/bain_lerntagebuch/blob/9d6d0af8950019b0413966596285eebcfb977dd5/_posts/2021-09-20-einfuehrung.md) zeigt. <br> </p>
 
 <p>Nach der Vorstellung der Lernziele ergibt sich mir langsam ein Bild, um was es bei BAIN geht. Wir sollen verstehen, wie Archiv- und Bibliothekssysteme funktionieren und welche Software für welchen Verwendungszweck geeignet ist. Dabei werden wir die Metadaten-Standards MARC21, EAD und Dublin Core vertiefter anschauen und lernen und welchen Einfluss sie auf Suchindexe haben. Gemäss dem Schaubild werden wir sehen, wie Systeme wie bspw. DSpace angelegt werden. Dann erlernen wir selbst mittels Schnittstelle (OAI-PMH) Daten einzulesen und später wieder zu exportieren und aus verschiedenen Standards zusammenfügen mittels OAI Harvester. Dabei lernen Suchindexe zu bilden und welchen Einfluss die Metadaten er verschiedenen Standards darauf haben. Weiter werden wir lernen, was Crosswalks sind und wie diese anzuwenden sind. Crosswalks dienen dazu, Metadaten von einem Standard in ein anderes Schema zu transformieren (Quellen Unterricht und https://librarycarpentry.org/23-rd-things/13-walk-the-crosswalk/). <br> </p>
 
