@@ -17,4 +17,4 @@ date: 2021-11-05
 
 <p>Am Ende der Lerneinheit wurde die Funktionsweise von Archivsystemen kurz erläutert und ArchivesSpace angeschaut. Die Unterschiede zwischen einem Bibliotheks- und einem Archivsystem scheinen aufgrund der unterschiedlichen Verwendungszwecke logisch. Bei Dokumenten im Archiv steht der Entstehungszusammenhang im Vordergrund. Dokumente werden gesichert und langfristig aufbewahrt. Bei Bibliotheken geht es darum den Bestand zu managen der jederzeit ändern kann. <br> </p>
 
-<p>Beim Versuch ArchivesSpace zu bedienen, tue ich mich schwer die Bedienelemente zu finden und zu verstehen, was wo ausgefüllt werden muss. Ich hoffe, dass hier die Übungen Klarheit bringen, welche wir aus Aufgabe erhalten haben. Dazu bald mehr in einem separaten Blog-Beitrag.<br> </p>
+<p>Beim Versuch ArchivesSpace zu bedienen, tue ich mich schwer die Bedienelemente zu finden und zu verstehen, was wo ausgefüllt werden muss. Ich hoffe, dass hier die Übungen Klarheit bringen, welche wir aus Aufgabe erhalten haben. Dazu bald mehr in einem separaten Blog-Beitrag.<br></p>
