@@ -1,6 +1,6 @@
 ---
 title: "4. Lerneinheit: Funktion und Aufbau von Archivsystemen"
-date: 2021-11-06
+date: 2021-11-05
 ---
 
 <h1>Gastvortrag zu ALMA und Einführung in Archivsysteme</h1>
