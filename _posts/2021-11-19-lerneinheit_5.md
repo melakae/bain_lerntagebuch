@@ -16,10 +16,10 @@ date: 2021-11-19
 <p>Bei der Collection wird festgelegt, welchen Publikationsworkflow eine Publikation nehmen muss. So kann bspw. definiert werden, dass jede hinzugefügte Publikation durch eine definierte Rolle geprüft und freigegeben werden muss, bevor sie im Repository erscheint. </p>
 
 <p><imp src="https://github.com/melakae/bain_lerntagebuch/issues/3#issue-1059404312" alt=Ansicht: Konfiguration des Publikations-Workflows in DSpace" width=100%><br>
-  <i>Konfiguration des Publikations-Workflows in DSpace, Bildquelle: demo.dspcae.org</i><br><p>
+  <i>Konfiguration des Publikations-Workflows in DSpace, Bildquelle: demo.dspcae.org</i><br></p>
   
  <p><imp src="https://github.com/melakae/bain_lerntagebuch/issues/2#issue-1059404223" alt=Ansicht: Freigabe des Publikations-Workflows in DSpace" width=100%><br>
-  <i>In dieser Maske erfolgt die Freigabe der Publikation in DSpace, wenn ein Freigabe-Workflow konfiguriert wurde, Bildquelle: demo.dspcae.org</i><br><p>
+  <i>In dieser Maske erfolgt die Freigabe der Publikation in DSpace, wenn ein Freigabe-Workflow konfiguriert wurde, Bildquelle: demo.dspcae.org</i><br></p>
 
 <p>In der Collection haben wir dann ein Werk hinzugefügt. Dabei kann auch die Lizenz hinterlegt werden, welche dem Nutzenden anzeigt, ob Sie die Publikation nutzen dürfen. Über die Creative Common Lizenz kann bestimmt werden, ob eine Weiterbearbeitung möglich ist und unter welchen Bedingungen. So kann bspw. festgelegt werden, dass die Datei verändert werden darf, dann aber mit der gleichen Lizenz wieder publiziert werden muss. Folgende Webseite erklärt die Creative Common Lizenzen einfach verständlich: <a href="https://www.bildersuche.org/creative-commons-infografik.php">Bildersuche.org, Creative Commons Lizenzen</a>.</p>
 
