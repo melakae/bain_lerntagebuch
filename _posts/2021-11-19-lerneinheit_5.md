@@ -17,7 +17,7 @@ date: 2021-11-19
 
 <p><img src="https://user-images.githubusercontent.com/83494929/142767620-aa6d1ebf-d810-49a2-8aab-dfcf8cfc11fd.png" alt=" Ansicht: Konfiguration des Publikations-Workflows in DSpace" width="100%"><br>
 <i>Konfiguration des Publikations-Workflows in DSpace, Bildquelle: demo.dspcae.org</i><br></p>
-  
+<br>  
 <p><img src="https://user-images.githubusercontent.com/83494929/142767601-77d94bca-80e1-49d6-a011-a636a6b4014a.png" alt=" Ansicht: Freigabe des Publikations-Workflows in DSpace" width="100%"><br>
 <i>In dieser Maske erfolgt die Freigabe der Publikation in DSpace, wenn ein Freigabe-Workflow konfiguriert wurde, Bildquelle: demo.dspcae.org</i><br></p>
 
