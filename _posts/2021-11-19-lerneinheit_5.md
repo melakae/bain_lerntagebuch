@@ -15,9 +15,15 @@ date: 2021-11-19
 
 <p>Bei der Collection wird festgelegt, welchen Publikationsworkflow eine Publikation nehmen muss. So kann bspw. definiert werden, dass jede hinzugefügte Publikation durch eine definierte Rolle geprüft und freigegeben werden muss, bevor sie im Repository erscheint. </p>
 
-<p>In der Collection haben wir dann ein Werk hinzugefügt. Dabei kann auch die Lizenz hinterlegt werden, welche dem Nutzenden anzeigt, ob Sie die Publikation nutzen dürfen. Über die Creative Common Lizenz kann bestimmt werden, ob eine Weiterbearbeitung möglich ist und unter welchen Bedingungen. So kann bspw. festgelegt werden, dass die Datei verändert werden darf, dann aber mit der gleichen Lizenz wieder publiziert werden muss. Folgende Webseite erklärt die Creative Common Lizenzen einfach verständlich: <a href="https://www.bildersuche.org/creative-commons-infografik.php">Bildersuche.org, Creative Commons Lizenzen</a>, aufgerufen am 21.11.2021.</p>
+<p><imp src="https://github.com/melakae/bain_lerntagebuch/issues/3#issue-1059404312" alt=Ansicht: Konfiguration des Publikations-Workflows in DSpace" width=100%><br>
+  <i>Konfiguration des Publikations-Workflows in DSpace, Bildquelle: demo.dspcae.org</i><br><p>
+  
+ <p><imp src="https://github.com/melakae/bain_lerntagebuch/issues/2#issue-1059404223" alt=Ansicht: Freigabe des Publikations-Workflows in DSpace" width=100%><br>
+  <i>In dieser Maske erfolgt die Freigabe der Publikation in DSpace, wenn ein Freigabe-Workflow konfiguriert wurde, Bildquelle: demo.dspcae.org</i><br><p>
+
+<p>In der Collection haben wir dann ein Werk hinzugefügt. Dabei kann auch die Lizenz hinterlegt werden, welche dem Nutzenden anzeigt, ob Sie die Publikation nutzen dürfen. Über die Creative Common Lizenz kann bestimmt werden, ob eine Weiterbearbeitung möglich ist und unter welchen Bedingungen. So kann bspw. festgelegt werden, dass die Datei verändert werden darf, dann aber mit der gleichen Lizenz wieder publiziert werden muss. Folgende Webseite erklärt die Creative Common Lizenzen einfach verständlich: <a href="https://www.bildersuche.org/creative-commons-infografik.php">Bildersuche.org, Creative Commons Lizenzen</a>.</p>
 
 <p>Diese Lerneinheit war spannend. Ich konnte hier mein Wissen aus dem Seminar vom HS20-Semester verbinden, wo wir uns mit CRIS und dem Institutional Repository (IRF) einer Fachhochschulbibliothek auseinandergesetzt haben.</p>
 
 <h2>Literaturnachweis</h2>
-<p><sub>2</sub>Quelle: Azeroual, O., Saake, G., & Abuosba, M. (2018). Data Quality Measures and Data Cleansing for Research Information Systems. Journal of Digital Information Management, 16(1), S.12-21.</p>
+<p><sub>1</sub> Azeroual, O., Saake, G., & Abuosba, M. (2018). Data Quality Measures and Data Cleansing for Research Information Systems. Journal of Digital Information Management, 16(1), S.12-21.</p>
