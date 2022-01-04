@@ -4,6 +4,7 @@ date: 2021-09-14
 ---
 
 <h1>Wo bin ich gestartet?</h1> 
+
 <p>Im soeben gestarteten 7. Semester des Bachelor-Studiengangs Information Science an der Fachhochschule Graubünden steht das Modul «BAIN – Bibliotheks- und Archivinformatik» auf meinem Stundenplan. Und ich überlege mir, was sich dahinter eigentlich verbirgt. <br> </p>
 
 <p>Mit Archiv- und Bibliothekssystemen hatte ich bisher aber nur wenige Anknüpfungspunkte. Sicherlich habe ich mal einen Bibliothekskatalog benutzt und in den vergangenen Modulen habe wir kurze Einblicke in einzelne Archiv- und Bibliothekssysteme erhalten – jedoch nur oberflächlich. Meine einzige Assoziation ist Buchhandelssoftware, welche ich während meiner Ausbildung zur Buchhändlerin und während meiner ersten Anstellung als Anwenderin genutzt habe. Dies ist jedoch 14 Jahre her, somit sind meine Erinnerungen lückenhaft und die Kenntnisse veraltet. <br> </p>
