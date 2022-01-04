@@ -29,8 +29,8 @@ date: 2021-12-17
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
   <li><sup>1</sup> Apache Software Foundation. Solr.  <a href="https://solr.apache.org/community.html#powered-by">https://solr.apache.org/community.html#powered-by</a>, aufgerufen am 24.12.2021</li>
-  <li><sup>2</sup> ExLibris Primo. Relevenzranking <a href="https://exlibrisgroup.com/de/produkte/primo/relevanzranking/">https://exlibrisgroup.com/de/produkte/primo/relevanzranking</a>, aufgerufen am 24.12.2021</li>
+  <li><sup>2</sup> ExLibris Primo. Relevenzranking. <a href="https://exlibrisgroup.com/de/produkte/primo/relevanzranking/">https://exlibrisgroup.com/de/produkte/primo/relevanzranking</a>, aufgerufen am 24.12.2021</li>
   <li><sup>3</sup> Solr. <a href="http://localhost:8983/solr/#/biblio/query">http://localhost:8983/solr/#/biblio/query</a>, abgerufen am 17.12.2021</li>
-  <li><sup>4</sup>, VuFind. <a href="http://localhost/vufind">http://localhost/vufind</a>, abgerufen am 17.12.2021</li>
-  <li><sup>5</sup> Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. <a href="https://bain.felixlohmeier.de/#/01_technische-grundlagen">https://bain.felixlohmeier.de/#/01_technische-grundlagen</a>, abgerufen 20.09.2021</li>
+  <li><sup>4</sup> VuFind. <a href="http://localhost/vufind">http://localhost/vufind</a>, abgerufen am 17.12.2021</li>
+  <li><sup>5</sup> Lohmeier, Felix und Meyer, Sebastian (2021). Skript BAIN, 1. Technische Grundlagen. <a href="https://bain.felixlohmeier.de/#/01_technische-grundlagen">https://bain.felixlohmeier.de/#/01_technische-grundlagen</a>, abgerufen 20.09.2021</li>
   </ul>
