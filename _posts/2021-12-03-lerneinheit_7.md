@@ -29,10 +29,10 @@ date: 2021-12-03
 <ul style="list-style:none">
   <li><sup>1</sup> OpenRefine. Testinstanz. <a href="https://openrefine.org/">https://openrefine.org</a>, abgerufen am 03.12.2021 </li>
   <li><sup>2</sup> Wikidata. Welcome to Wikidata. <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">https://www.wikidata.org/wiki/Wikidata:Main_Page</a>, abgerufen am 03.12.2021 </li>
-  <li><sup>3</sup> Wikidata. Instroduction. <a href="https://www.wikidata.org/wiki/Wikidata:Introduction">ttps://www.wikidata.org/wiki/Wikidata:Introduction</a>, abgerufen am 03.12.2021</li>
-  <li>sup>4</sup> Wikidata. Data access. <a href="https://www.wikidata.org/wiki/Wikidata:Data_access">"https://www.wikidata.org/wiki/Wikidata:Data_access</a>, abgerufen am 03.12.2021</li>
-   <li><sup>5</sup> OpenRefine. Manual, Grel. <a href="https://docs.openrefine.org/manual/grel">https://docs.openrefine.org/manual/grel</a></li>
-  <li><sup>6</sup> OpenRefine. Manual, Grelfunctions. <a href="https://docs.openrefine.org/manual/grelfunctions">https://docs.openrefine.org/manual/grelfunctions</a>) </li>
-   <li><sup>7</sup> OpenRefine. Manual. <a href="https://docs.openrefine.org/">https://docs.openrefine.org</a></li>
+  <li><sup>3</sup> Wikidata. Instroduction. <a href="https://www.wikidata.org/wiki/Wikidata:Introduction">https://www.wikidata.org/wiki/Wikidata:Introduction</a>, abgerufen am 03.12.2021</li>
+  <li><sup>4</sup> Wikidata. Data access. <a href="https://www.wikidata.org/wiki/Wikidata:Data_access">https://www.wikidata.org/wiki/Wikidata:Data_access</a>, abgerufen am 03.12.2021</li>
+   <li><sup>5</sup> OpenRefine. Manual, Grel. <a href="https://docs.openrefine.org/manual/grel">https://docs.openrefine.org/manual/grel</a>, abgerufen am 03.12.2021</li>
+  <li><sup>6</sup> OpenRefine. Manual, Grelfunctions. <a href="https://docs.openrefine.org/manual/grelfunctions">https://docs.openrefine.org/manual/grelfunctions</a>, abgerufen am 03.12.2021 </li>
+   <li><sup>7</sup> OpenRefine. Manual. <a href="https://docs.openrefine.org/">https://docs.openrefine.org</a>, abgerufen am 03.12.2021</li>
 </ul>
 
