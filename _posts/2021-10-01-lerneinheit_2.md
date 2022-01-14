@@ -5,7 +5,7 @@ date: 2021-10-01
 
 <h1>GitHub und Koha kennen lernen</h1>
 
-<p>In dieser Lerneinheit wurde anhand einer praktischen Übung die Versionskontrolle mit GitHub erläutert. Bei GitHub handelt es sich um eine Git Software, mit welcher die Versionskontrolle von Software sichergestellt wird. Die OpenSource Lösung ermöglicht die denzentrale Entwicklung und auf verschiedenen Entwicklungszweigen (Branches) zu arbeiten sowie gleichzeitig die Datensicherheit herzustellen, indem jede Änderung eine ID erhält.<sup>1</sup> <br> </p>
+<p>In dieser Lerneinheit wurde anhand einer praktischen Übung die Versionskontrolle mit GitHub erläutert. Bei GitHub handelt es sich um eine Git Software, mit welcher die Versionskontrolle von Software sichergestellt wird. Die OpenSource Lösung ermöglicht die denzentrale Entwicklung und auf verschiedenen Entwicklungszweigen (Branches) bei gleichzeitiger Herstellung der Datensicherheit, indem jede Änderung eine ID erhält.<sup>1</sup> <br> </p>
 
 <p>Wir sollten unsere Lerntagebücher im öffentlichen <a href="https://bain.felixlohmeier.de/#/?id=lerntageb%c3%bccher">Skript</a> zum Modul BAIN verlinken. Dazu mussten wir GitHub auf unserer virtuellen Maschine via Shell installieren. Weiter haben wir ein Personal Access Token für GitHub angelegt. Dieses kann anstelle des Passworts genutzt werden, um sich zu authentifizieren, wenn später bspw. Dateien kopiert werden gemäss Github-Tutorial.<sup>2</sup> <br> </p>
 
