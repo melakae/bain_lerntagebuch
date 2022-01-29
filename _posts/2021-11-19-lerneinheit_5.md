@@ -27,9 +27,9 @@ date: 2021-11-19
 
 <h2>Quellennachweis</h2>
 <ul style="list-style:none">
-  <li><sup>1</sup> The International Organisation for Research Information. EuroCRIS. <a href="https://dspacecris.eurocris.org/">https://dspacecris.eurocris.org</a>, abgerufen am 21.11.2021 </li>
+  <li><sup>1</sup> The International Organisation for Research Information. EuroCRIS. <a href="https://dspacecris.eurocris.org/" target="_blank">https://dspacecris.eurocris.org</a>, abgerufen am 21.11.2021 </li>
 <li><sup>2</sup> Azeroual, O., Saake, G., & Abuosba, M. (2018). Data Quality Measures and Data Cleansing for Research Information Systems. Journal of Digital Information Management, 16(1), S.12-21.</li>
-  <li><sup>3</sup> Kerndatensatz-Forschung. Technisches Datenmodell. Entity-Relationship-Modell des Kerndatensatz Forschung. <a href="https://kerndatensatz-forschung.de/version1/technisches_datenmodell/ER-Modell.html">Kerndatensatz-Forschung, technisches Datenmodell</a>, abgerufen am 19.11.2021</li>
-  <li><sup>4</sup> DSpace. DSpace 6.3 Demo Instance. <a href="http://demo.dspace.org/">http://demo.dspace.org</a>, abgerufen am 19.11.2021</li>
-  <li><sup>5</sup> Mißfeldt, Martin. Creative Commons Lizenzen <a href="https://www.bildersuche.org/creative-commons-infografik.php">https://www.bildersuche.org/creative-commons-infografik.php</a>, abgerufen am 20.11.2021</li>
+  <li><sup>3</sup> Kerndatensatz-Forschung. Technisches Datenmodell. Entity-Relationship-Modell des Kerndatensatz Forschung. <a href="https://kerndatensatz-forschung.de/version1/technisches_datenmodell/ER-Modell.html" target="_blank">Kerndatensatz-Forschung, technisches Datenmodell</a>, abgerufen am 19.11.2021</li>
+  <li><sup>4</sup> DSpace. DSpace 6.3 Demo Instance. <a href="http://demo.dspace.org/" target="_blank">http://demo.dspace.org</a>, abgerufen am 19.11.2021</li>
+  <li><sup>5</sup> Mißfeldt, Martin. Creative Commons Lizenzen <a href="https://www.bildersuche.org/creative-commons-infografik.php" target="_blank">https://www.bildersuche.org/creative-commons-infografik.php</a>, abgerufen am 20.11.2021</li>
 </ul>
