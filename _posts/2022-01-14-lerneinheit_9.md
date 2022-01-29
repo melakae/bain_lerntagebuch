@@ -10,9 +10,9 @@ date: 2022-01-14
 <p>Auf der Basis der Linked Data Technologie wurde von der Library of Congress (LoC) die BIBFRAME-Initiative gestartet zur Aufbereitung bibliografischer Daten.<sup>2</sup>
  <br></p>
 
-<p>Mit BIBFRAME sollen die Daten in den Bibliothekskatalogen bessere Suchergebnisse liefern und die Zugangshürden zu den Bibliotheksdaten senken. So sollen z.B. die Daten auch im World Wide Web (z.B. via Suchmaschinen wie Google) zu finden sein und auch für Personen verständlich sein, welche sich in der Bibliothekswelt nicht auskennen.<sup>3</sup> <br></p>
+<p>Mit BIBFRAME sollen die Daten in den Bibliothekskatalogen bessere Suchergebnisse liefern und die Zugangshürden zu den Bibliotheksdaten senken. So sollen z.B. die Daten auch im World Wide Web (z.B. via Suchmaschinen wie Google) zu finden und auch für Personen verständlich sein, welche sich in der Bibliothekswelt nicht auskennen.<sup>3</sup> <br></p>
 
-<p>BIBFRAME soll das heute Metadaten-Format MARC 21 ablösen. Die Deutsche Nationalbibliothek (DNB) ist an dem Pilotprojekt der BIBFRAME-Initiative der LoC beteiligt und beschreibt es wie folgt: «BIBFRAME ist ein Rahmenwerk, in dem bibliografische Daten mit Hilfe von Linked-Data- und Semantic-Web-Technologien angelegt, gespeichert, transportiert und bereitgestellt werden können.»<sup>4</sup> <br> </p>
+<p>BIBFRAME soll das Metadaten-Format MARC 21 ablösen. Die Deutsche Nationalbibliothek (DNB) ist an dem Pilotprojekt der BIBFRAME-Initiative der LoC beteiligt und beschreibt es wie folgt: «BIBFRAME ist ein Rahmenwerk, in dem bibliografische Daten mit Hilfe von Linked-Data- und Semantic-Web-Technologien angelegt, gespeichert, transportiert und bereitgestellt werden können.»<sup>4</sup> <br> </p>
 
 <p>Bei der Recherche hat mich die Frage beschäftigt, warum MARC 21 abgelöst werden soll. Eine Antwort habe ich in der Projektbeschreibung der DNB gefunden. MARC 21 kann die heutigen Anforderungen, welche durch die starke digitale Vernetzung entstehen, nicht mehr erfüllen. Daher wurde die Initiative «Bibliographic Framework Initative (BIBFRAME)» von der LoC gestartet. Ihr Ziel ist es, ein einheitliches Format zu entwickeln, welches die neuen technologischen Möglichkeiten wie Linked-Data und Semantic-Web nutzt und die bisherigen Formate ablösen kann.<sup>5</sup>  <br></p>
 
@@ -21,7 +21,7 @@ date: 2022-01-14
 <p><img src="https://user-images.githubusercontent.com/83494929/150636217-236912a7-252c-4636-9e82-da1767a9579c.png" alt="Vergleichsansicht MARC XML und BIBFRAME XML" width="100%"><br>
   <i>Vergleich MARC XML und BIBFRAME RDFXML <sup>7</sup> </i><br></p>
 
-<p>Im Unterricht haben wir das Datenmodell von BIBFRAME angeschaut. Es wird zwischen Work, Instance und Item unterschieden. Jede «Bubble» in der Darstellung unten ist ein eigenständiger Datensatz. Diese Datensätze werden dann miteinander verknüpft (bspw. Verlag mit Instance). So muss ein Autor nur einmal erfasst werden, kann aber mit mehreren Werken und Formaten verknüpft werden. Damit erhält man auch Beziehungen zwischen den Datensätzen, die nicht explizit angegeben werden, da es sich aus dem Datenmodell ergibt (bspw. Verlag x hat 10 Manifeste herausgegeben).<br></p>
+<p>Im Unterricht haben wir das Datenmodell von BIBFRAME angeschaut. Es wird zwischen Work, Instance und Item unterschieden. Jede «Bubble» in der Darstellung unten ist ein eigenständiger Datensatz. Diese Datensätze werden dann miteinander verknüpft (bspw. Verlag mit Instance). So muss ein Autor nur einmal erfasst werden, kann aber mit mehreren Werken und Formaten verknüpft werden. Man erhält auch Beziehungen zwischen den Datensätzen, die nicht explizit angegeben werden, da es sich aus dem Datenmodell ergibt (bspw. Verlag x hat 10 Manifeste herausgegeben).<br></p>
   
 <p><img src="https://user-images.githubusercontent.com/83494929/150636228-68297778-e00a-4ee6-af33-f8d75bdca066.png" alt="BIBFRAME Datenmodell" width="40%"><br>
   <i>Datenmodell BIBFRAME <sup>8</sup> </i><br></p>
