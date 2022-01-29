@@ -18,9 +18,9 @@ date: 2021-10-08
 
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
-  <li><sup>1</sup>Zefanjas (2018). Teil 2: Das bibliografiche Framework – wie man KOHA installiert und für Schulen einrichtet. <a href="https://zefanjas.de/koha-installation-schule-bibliografische-framework/">https://zefanjas.de/koha-installation-schule-bibliografische-framework</a>, abgerufen am 08.10.2021</li>
-  <li><sup>2</sup> Library of Congress. Understanding MARC. <a href="https://www.loc.gov/marc/umb/">https://www.loc.gov/marc/umb</a>, abgerufen am 08.10.2021</li>
-  <li><sup>3</sup> Baca, Murtha (2018). Introduction to Metadata, Glossary. Getty Research Institute, Los Angeles. <a href="http://www.getty.edu/publications/intrometadata/glossary/">http://www.getty.edu/publications/intrometadata/glossary</a>, abgerufen am 20.10.2021</li>
-  <li><sup>4</sup> Koha. <a href="bibliothek-intra.meine-Schule.org/cgi-bin/koha/catalouing/adbooks.pl">bibliothek-intra.meine-Schule.org/cgi-bin/koha/catalouing/adbooks.pl</a>, abgerufen, 08.10.2021</li>
+  <li><sup>1</sup>Zefanjas (2018). Teil 2: Das bibliografiche Framework – wie man KOHA installiert und für Schulen einrichtet. <a href="https://zefanjas.de/koha-installation-schule-bibliografische-framework/" target="_blank">https://zefanjas.de/koha-installation-schule-bibliografische-framework</a>, abgerufen am 08.10.2021</li>
+  <li><sup>2</sup> Library of Congress. Understanding MARC. <a href="https://www.loc.gov/marc/umb/" target="_blank">https://www.loc.gov/marc/umb</a>, abgerufen am 08.10.2021</li>
+  <li><sup>3</sup> Baca, Murtha (2018). Introduction to Metadata, Glossary. Getty Research Institute, Los Angeles. <a href="http://www.getty.edu/publications/intrometadata/glossary/" target="_blank">http://www.getty.edu/publications/intrometadata/glossary</a>, abgerufen am 20.10.2021</li>
+  <li><sup>4</sup> Koha. <a href="bibliothek-intra.meine-Schule.org/cgi-bin/koha/catalouing/adbooks.pl" target="_blank">bibliothek-intra.meine-Schule.org/cgi-bin/koha/catalouing/adbooks.pl</a>, abgerufen, 08.10.2021</li>
   <li><sup>4</sup> Breeding, Marshall (2021). 2021 Library Systems Report. <a href="https://americanlibrariesmagazine.org/2021/05/03/2021-library-systems-report/">2021 Library Systems Report</a> abgerufen am 08.10.2021</li>  
 </ul>
