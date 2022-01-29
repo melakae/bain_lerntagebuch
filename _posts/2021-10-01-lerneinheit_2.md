@@ -5,7 +5,7 @@ date: 2021-10-01
 
 <h1>GitHub und Koha kennen lernen</h1>
 
-<p>In dieser Lerneinheit wurde anhand einer praktischen Übung die Versionskontrolle mit GitHub erläutert. Bei GitHub handelt es sich um eine Git Software, mit welcher die Versionskontrolle von Software sichergestellt wird. Die OpenSource Lösung ermöglicht die denzentrale Entwicklung und auf verschiedenen Entwicklungszweigen (Branches) bei gleichzeitiger Herstellung der Datensicherheit, indem jede Änderung eine ID erhält.<sup>1</sup> <br> </p>
+<p>In dieser Lerneinheit wurde anhand einer praktischen Übung die Versionskontrolle mit GitHub erläutert. Bei GitHub handelt es sich um eine Git Software, mit welcher die Versionskontrolle von Software sichergestellt wird. Die Open Source Lösung ermöglicht die dezentrale Entwicklung und auf verschiedenen Entwicklungszweigen (Branches) bei gleichzeitiger Herstellung der Datensicherheit, indem jede Änderung eine ID erhält.<sup>1</sup> <br> </p>
 
 <p>Wir sollten unsere Lerntagebücher im öffentlichen <a href="https://bain.felixlohmeier.de/#/?id=lerntageb%c3%bccher">Skript</a> zum Modul BAIN verlinken. Dazu mussten wir GitHub auf unserer virtuellen Maschine via Shell installieren. Weiter haben wir ein Personal Access Token für GitHub angelegt. Dieses kann anstelle des Passworts genutzt werden, um sich zu authentifizieren, wenn später bspw. Dateien kopiert werden gemäss Github-Tutorial.<sup>2</sup> <br> </p>
 
@@ -18,6 +18,6 @@ date: 2021-10-01
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
   <li><sup>1</sup> Ryte Wiki. Git. <a href="https://de.ryte.com/wiki/Git">https://de.ryte.com/wiki/Git</a>, abgerufen am 03.10.2021</li>
-  <li><sup>2</sup> GitHub.Creating a personal access token. <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</a>, abgerufen am 03.10.2021</li>
+  <li><sup>2</sup> GitHub. Creating a personal access token. <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</a>, abgerufen am 03.10.2021</li>
   <li><sup>3</sup> Ryte Wiki. Repository. <a href="https://de.ryte.com/wiki/Repository">https://de.ryte.com/wiki/Repository</a>, abgerufen am 03.10.2021</li>
 </ul>
