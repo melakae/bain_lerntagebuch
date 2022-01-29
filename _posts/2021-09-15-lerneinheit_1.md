@@ -20,8 +20,8 @@ date: 2021-09-15
 
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
-  <li><sup>1</sup> Library Carpentry, Thing 13: Walk the crosswalk <a href="https://librarycarpentry.org/23-rd-things/13-walk-the-crosswalk/">https://librarycarpentry.org/23-rd-things/13-walk-the-crosswalk</a>, aufgerufen am 20.09.2021 </li>
-  <li><sup>2</sup> Australian National Data Service ands. Working with data, Thing 13: Walk the crosswalk <a href="https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13">https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13</a> (Originalquelle), aufgerufen am 03.10.2021</li>
-    <li><sup>3</sup> Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. <a href="https://bain.felixlohmeier.de/#/01_technische-grundlagen">https://bain.felixlohmeier.de/#/01_technische-grundlagen</a>, abgerufen 20.09.2021</li>
+  <li><sup>1</sup> Library Carpentry, Thing 13: Walk the crosswalk <a href="https://librarycarpentry.org/23-rd-things/13-walk-the-crosswalk/" target="_blank">https://librarycarpentry.org/23-rd-things/13-walk-the-crosswalk</a>, aufgerufen am 20.09.2021 </li>
+  <li><sup>2</sup> Australian National Data Service ands. Working with data, Thing 13: Walk the crosswalk <a href="https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13" target="_blank">https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-13</a> (Originalquelle), aufgerufen am 03.10.2021</li>
+    <li><sup>3</sup> Lohmeier, Meyer (2021). Skript BAIN, 1. Technische Grundlagen. <a href="https://bain.felixlohmeier.de/#/01_technische-grundlagen" target="_blank">https://bain.felixlohmeier.de/#/01_technische-grundlagen</a>, abgerufen 20.09.2021</li>
 </ul>
 
