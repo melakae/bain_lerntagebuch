@@ -17,7 +17,7 @@ date: 2021-10-01
 
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
-  <li><sup>1</sup> Ryte Wiki. Git. <a href="https://de.ryte.com/wiki/Git">https://de.ryte.com/wiki/Git</a>, abgerufen am 03.10.2021</li>
-  <li><sup>2</sup> GitHub. Creating a personal access token. <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</a>, abgerufen am 03.10.2021</li>
-  <li><sup>3</sup> Ryte Wiki. Repository. <a href="https://de.ryte.com/wiki/Repository">https://de.ryte.com/wiki/Repository</a>, abgerufen am 03.10.2021</li>
+  <li><sup>1</sup> Ryte Wiki. Git. <a href="https://de.ryte.com/wiki/Git" target="_blank">https://de.ryte.com/wiki/Git</a>, abgerufen am 03.10.2021</li>
+  <li><sup>2</sup> GitHub. Creating a personal access token. <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token" target="_blank">https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</a>, abgerufen am 03.10.2021</li>
+  <li><sup>3</sup> Ryte Wiki. Repository. <a href="https://de.ryte.com/wiki/Repository" target="_blank">https://de.ryte.com/wiki/Repository</a>, abgerufen am 03.10.2021</li>
 </ul>
