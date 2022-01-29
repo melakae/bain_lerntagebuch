@@ -26,7 +26,7 @@ date: 2021-11-05
  
 <h3>Quellennachweis</h3>
 <ul style="list-style:none">
-  <li><sup>1</sup> SLSP. Die SLSP auf einen Blick. <a href="https://slsp.ch/de">https://slsp.ch</a>, abgerufen am 24.12.2021</li>
- <li><sup>2</sup> SLSP. Services. <a href="https://slsp.ch/de/services">slsp.ch/services</a>, abgerufen am 24.12.2021</li>
+  <li><sup>1</sup> SLSP. Die SLSP auf einen Blick. <a href="https://slsp.ch/de" target="_blank">https://slsp.ch</a>, abgerufen am 24.12.2021</li>
+ <li><sup>2</sup> SLSP. Services. <a href="https://slsp.ch/de/services" target="_blank">slsp.ch/services</a>, abgerufen am 24.12.2021</li>
  <li><sup>3</sup> Frauchiger, Charlotte (2021). Präsentation FHNW. </li>
  </ul>
